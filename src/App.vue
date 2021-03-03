@@ -1,10 +1,17 @@
 <template>
   <div id="app">
-      <p>java0821 全体同学 前程似锦</p>
-      <p>java0821 全体同学 貌美如花</p>
-      <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
-      <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
-   <img src="http://img12.360buyimg.com/n1/s450x450_jfs/t1/142295/6/19866/63874/5fe4408eE401889c8/8f5c2b37676a2264.jpg"/>
+      <p>送你三月的风 六月的雨 九月的风景</p>
+      <p>       <p>
+      <p>每个梦境 每次清醒 陪伴的长情</p>
+      <p>       <p>
+   <img src="https://sub-account-zhou.oss-cn-shanghai.aliyuncs.com/b-ssl.duitang.jpg"/>
+      <p>徐静，送你的花哈哈哈<p>
+      <p>       <p>
+      <p>       <p>
+      <p>       <p>
+      <p>       <p>
+      <p>       <p>
+      <p>让我余生都有关于你</p>
   </div>
 </template>
 
