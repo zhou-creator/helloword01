@@ -6,6 +6,8 @@
       <p>       <p>
    <img src="https://sub-account-zhou.oss-cn-shanghai.aliyuncs.com/b-ssl.duitang.jpg"/>
       <p>徐静，送你的花哈哈哈<p>
+      <p>test01<p>
+
   </div>
 </template>
 
