@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <p>XUJING</p>
+      <p>哈哈哈哈哈</p>
   </div>
 </template>
 
